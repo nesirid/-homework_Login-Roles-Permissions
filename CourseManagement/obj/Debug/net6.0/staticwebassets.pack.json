@@ -1,0 +1,1333 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CourseManagement.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CourseManagement.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\js\\archive.js",
+      "PackagePath": "staticwebassets\\admin\\js\\archive.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\js\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\admin\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\admin\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\admin\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\admin\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\admin\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\admin\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\js\\template.js",
+      "PackagePath": "staticwebassets\\admin\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\admin\\partials\\_footer.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\admin\\partials\\_navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\partials\\_settings-panel.html",
+      "PackagePath": "staticwebassets\\admin\\partials\\_settings-panel.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\admin\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\_background.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\components\\plugin-overrides\\_data-tables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\plugin-overrides\\_data-tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\css\\StyleForRegister.css",
+      "PackagePath": "staticwebassets\\assets\\css\\StyleForRegister.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\css\\animate.min_ver=6.4.3.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.min_ver=6.4.3.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\css\\backToTop_ver=6.4.3.css",
+      "PackagePath": "staticwebassets\\assets\\css\\backToTop_ver=6.4.3.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\css\\base-core_ver=1714817522.css",
+      "PackagePath": "staticwebassets\\assets\\css\\base-core_ver=1714817522.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\css\\base-unit_ver=6.4.3.css",
+      "PackagePath": "staticwebassets\\assets\\css\\base-unit_ver=6.4.3.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\css\\bootstrap.min_ver=6.4.3.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min_ver=6.4.3.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\css\\default_ver=6.4.3.css",
+      "PackagePath": "staticwebassets\\assets\\css\\default_ver=6.4.3.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\css\\elegantFont_ver=6.4.3.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elegantFont_ver=6.4.3.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\css\\elementorstyle1.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elementorstyle1.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\css\\elementorstyle2.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elementorstyle2.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\css\\fontAwesome5Pro_ver=6.4.3.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontAwesome5Pro_ver=6.4.3.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\css\\jquery.fancybox.min_ver=6.4.3.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery.fancybox.min_ver=6.4.3.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\css\\meanmenu_ver=6.4.3.css",
+      "PackagePath": "staticwebassets\\assets\\css\\meanmenu_ver=6.4.3.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\css\\owl.carousel.min_ver=6.4.3.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min_ver=6.4.3.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\css\\preloader_ver=6.4.3.css",
+      "PackagePath": "staticwebassets\\assets\\css\\preloader_ver=6.4.3.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\css\\responsive_ver=1714817522.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive_ver=1714817522.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\css\\styles.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\styles.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\css\\swiper-bundle_ver=6.4.3.css",
+      "PackagePath": "staticwebassets\\assets\\css\\swiper-bundle_ver=6.4.3.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\fonts\\fa-duotone-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-duotone-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\fonts\\fa-duotone-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-duotone-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\fonts\\fa-duotone-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-duotone-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\fonts\\fa-duotone-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-duotone-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\fonts\\fa-light-300.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\fonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\fonts\\fa-light-300.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\fonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\images\\icons\\75ec18a5bf959aab895830be3a78cb34.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\75ec18a5bf959aab895830be3a78cb34.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\147144.png",
+      "PackagePath": "staticwebassets\\assets\\img\\147144.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\2021\\08\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\2021\\08\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\2021\\08\\wRq1rBXht3AR.png",
+      "PackagePath": "staticwebassets\\assets\\img\\2021\\08\\wRq1rBXht3AR.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\2021\\09\\banner-img-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\2021\\09\\banner-img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\2021\\09\\banner-img-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\2021\\09\\banner-img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\2021\\09\\cor-2-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\2021\\09\\cor-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\2021\\09\\cor-4-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\2021\\09\\cor-4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\2021\\09\\cor-5-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\2021\\09\\cor-5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\2021\\09\\cor-6-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\2021\\09\\cor-6-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\2021\\09\\cor11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\2021\\09\\cor11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\2021\\09\\cor12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\2021\\09\\cor12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\2021\\09\\cta-shape.png",
+      "PackagePath": "staticwebassets\\assets\\img\\2021\\09\\cta-shape.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\2021\\12\\hero-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\2021\\12\\hero-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\2021\\12\\hero-sm-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\2021\\12\\hero-sm-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\360_F_484876187_u6HIlCgA2iZdfkoOamuQa43OJH2zaDVR.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\360_F_484876187_u6HIlCgA2iZdfkoOamuQa43OJH2zaDVR.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\75ec18a5bf959aab895830be3a78cb34.png",
+      "PackagePath": "staticwebassets\\assets\\img\\75ec18a5bf959aab895830be3a78cb34.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\blog-sm-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-sm-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\blog-sm-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-sm-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\blog-sm-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-sm-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\contact\\contact-shape-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\contact\\contact-shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\contact\\contact-shape-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\contact\\contact-shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\contact\\contact-shape-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\contact\\contact-shape-3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\contact\\contact-shape-4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\contact\\contact-shape-4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\contact\\contact-shape-5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\contact\\contact-shape-5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\course-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\course-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\course-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\course12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\course\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\course\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\course\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\course\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\course\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\course\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\course\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\course\\blog-sm-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\blog-sm-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\course\\blog-sm-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\blog-sm-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\course\\blog-sm-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\blog-sm-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\course\\course-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\course\\course-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\course\\course-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\course\\course-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\course\\course-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\course\\course-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\course\\course-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\course\\course-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\course\\course-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\course\\page-title.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\page-title.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\events\\events-shape.png",
+      "PackagePath": "staticwebassets\\assets\\img\\events\\events-shape.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\icon\\down_arrow.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\down_arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\logo\\logo-black.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo-black.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\page-title.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\page-title.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\shape\\hero\\hero-1-circle-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\shape\\hero\\hero-1-circle-2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\shape\\hero\\hero-1-circle-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\shape\\hero\\hero-1-circle-3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\shape\\hero\\hero-1-circle-4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\shape\\hero\\hero-1-circle-4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\shape\\hero\\hero-1-circle.png",
+      "PackagePath": "staticwebassets\\assets\\img\\shape\\hero\\hero-1-circle.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\shape\\hero\\hero-1-dot-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\shape\\hero\\hero-1-dot-2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\shape\\hero\\hero-1-dot.png",
+      "PackagePath": "staticwebassets\\assets\\img\\shape\\hero\\hero-1-dot.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\img\\shape\\yellow-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\shape\\yellow-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\jquery\\jquery.min_ver=3.7.1.js",
+      "PackagePath": "staticwebassets\\assets\\jquery\\jquery.min_ver=3.7.1.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\js\\backToTop_ver=6.4.3.js",
+      "PackagePath": "staticwebassets\\assets\\js\\backToTop_ver=6.4.3.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\js\\bootstrap.bundle.min_ver=6.4.3.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min_ver=6.4.3.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\js\\imagesloaded.min_ver=5.0.0.js",
+      "PackagePath": "staticwebassets\\assets\\js\\imagesloaded.min_ver=5.0.0.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\js\\isotope.pkgd.min_ver=6.4.3.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.pkgd.min_ver=6.4.3.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\js\\jquery.counterup.min_ver=6.4.3.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.counterup.min_ver=6.4.3.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\js\\jquery.fancybox.min_ver=6.4.3.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.fancybox.min_ver=6.4.3.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\js\\jquery.meanmenu_ver=6.4.3.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.meanmenu_ver=6.4.3.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\js\\jquery.nice-select.min_ver=6.4.3.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.nice-select.min_ver=6.4.3.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\js\\main_ver=6.4.3.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main_ver=6.4.3.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\js\\owl.carousel.min_ver=6.4.3.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min_ver=6.4.3.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\js\\parallax.min_ver=6.4.3.js",
+      "PackagePath": "staticwebassets\\assets\\js\\parallax.min_ver=6.4.3.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\js\\script.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\js\\swiper-bundle.min_ver=6.4.3.js",
+      "PackagePath": "staticwebassets\\assets\\js\\swiper-bundle.min_ver=6.4.3.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\js\\waypoints.min_ver=6.4.3.js",
+      "PackagePath": "staticwebassets\\assets\\js\\waypoints.min_ver=6.4.3.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\js\\wow.min_ver=6.4.3.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wow.min_ver=6.4.3.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\plugins\\elementor\\assets\\css\\frontend-lite.min_ver=3.19.0.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\elementor\\assets\\css\\frontend-lite.min_ver=3.19.0.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\plugins\\elementor\\assets\\js\\frontend-modules.min_ver=3.19.0.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\elementor\\assets\\js\\frontend-modules.min_ver=3.19.0.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\plugins\\elementor\\assets\\js\\frontend.min_ver=3.19.0.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\elementor\\assets\\js\\frontend.min_ver=3.19.0.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\plugins\\elementor\\assets\\js\\webpack.runtime.min_ver=3.19.0.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\elementor\\assets\\js\\webpack.runtime.min_ver=3.19.0.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\plugins\\elementor\\assets\\lib\\eicons\\css\\elementor-icons.min_ver=5.27.0.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\elementor\\assets\\lib\\eicons\\css\\elementor-icons.min_ver=5.27.0.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\plugins\\elementor\\assets\\lib\\eicons\\fonts\\eicons_5.27.0.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\elementor\\assets\\lib\\eicons\\fonts\\eicons_5.27.0.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\plugins\\elementor\\assets\\lib\\eicons\\fonts\\eicons_5.27.0.svg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\elementor\\assets\\lib\\eicons\\fonts\\eicons_5.27.0.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\plugins\\elementor\\assets\\lib\\eicons\\fonts\\eicons_5.27.0.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\elementor\\assets\\lib\\eicons\\fonts\\eicons_5.27.0.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\plugins\\elementor\\assets\\lib\\eicons\\fonts\\eicons_5.27.0.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\elementor\\assets\\lib\\eicons\\fonts\\eicons_5.27.0.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\plugins\\elementor\\assets\\lib\\eicons\\fonts\\eicons_5.27.0.woff2",
+      "PackagePath": "staticwebassets\\assets\\plugins\\elementor\\assets\\lib\\eicons\\fonts\\eicons_5.27.0.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\plugins\\elementor\\assets\\lib\\font-awesome\\css\\fontawesome.min_ver=5.15.3.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\elementor\\assets\\lib\\font-awesome\\css\\fontawesome.min_ver=5.15.3.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\plugins\\elementor\\assets\\lib\\font-awesome\\css\\solid.min_ver=5.15.3.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\elementor\\assets\\lib\\font-awesome\\css\\solid.min_ver=5.15.3.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\plugins\\elementor\\assets\\lib\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\elementor\\assets\\lib\\font-awesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\plugins\\elementor\\assets\\lib\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\elementor\\assets\\lib\\font-awesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\plugins\\elementor\\assets\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\elementor\\assets\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\plugins\\elementor\\assets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\elementor\\assets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\plugins\\elementor\\assets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\plugins\\elementor\\assets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\assets\\plugins\\elementor\\assets\\lib\\swiper\\css\\swiper.min_ver=5.3.6.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\elementor\\assets\\lib\\swiper\\css\\swiper.min_ver=5.3.6.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CourseManagement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CourseManagement.props",
+      "PackagePath": "build\\CourseManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CourseManagement.props",
+      "PackagePath": "buildMultiTargeting\\CourseManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CourseManagement.props",
+      "PackagePath": "buildTransitive\\CourseManagement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

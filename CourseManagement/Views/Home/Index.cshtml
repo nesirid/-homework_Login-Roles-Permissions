@@ -1,0 +1,974 @@
+﻿@model CourseManagement.ViewModels.HomeVM
+
+<main>
+
+    <section id="back-to-top">
+        <div class="progress-wrap">
+            <svg class="progress-circle svg-content" width="100%" height="100%"
+                 style="border-radius: 50%; background-color: #b2fbfa;" viewBox="-1 -1 102 102">
+                <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"></path>
+            </svg>
+        </div>
+    </section>
+
+    <section id="sidebar-area-conrol">
+        <div class="sidebar-area">
+            <div class="sidebar-wrapper">
+                <div class="sidebar-close">
+                    <button class="sidebar-close-btn" id="sidebar-close-btn">
+                        <span><i class="fal fa-times"></i></span>
+                    </button>
+                </div>
+                <div class="sidebar-content">
+                    <div class="logo mb-40">
+                        <a href="#" class="mobile_logo">
+                            <img src="./assets/img/logo/logo-black.png" alt="Side Logo">
+                        </a>
+                    </div>
+                    <div class="mobile-menu fix"></div>
+                    <div class="sidebar-search p-relative mt-40 ">
+                        <form action="#">
+                            <input type="text" name="s" value="" placeholder="Search...">
+                            <button type="submit"><i class="fad fa-search"></i></button>
+                        </form>
+                    </div>
+                    <div class="sidebar-cart mt-30">
+                        <a href="#">
+                            <div class="header-cart-icon">
+                                <svg viewBox="0 0 24 24">
+                                    <circle class="st0" cx="9" cy="21" r="1"></circle>
+                                    <circle class="st0" cx="20" cy="21" r="1"></circle>
+                                    <path class="st0" d="M1,1h4l2.7,13.4c0.2,1,1,1.6,2,1.6h9.7c1,0,1.8-0.7,2-1.6L23,6H6">
+                                    </path>
+                                </svg>
+                            </div>
+                            <span class="cart-item">0</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="body-overlay"></div>
+        <div class="search-wrapper p-relative transition-3 d-none">
+            <div class="search-form transition-3">
+                <form method="get" action="#">
+                    <input type="search" name="s" value="" placeholder="Enter Your Keyword">
+                    <button type="submit" class="search-btn"><i class="far fa-search"></i></button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <section id="header-online-tutorial" data-elementor-type="wp-page" data-elementor-id="209"
+             class="elementor elementor-209">
+        <div class="elementor-section elementor-top-section elementor-element elementor-element-2790e7b elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+             data-id="2790e7b" data-element_type="section">
+            <div class="elementor-container elementor-column-gap-no">
+                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ffbc581"
+                     data-id="ffbc581" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-fd4a10e bdevs-card--top elementor-widget elementor-widget-hero bdevs-el hero">
+                            <div class="elementor-widget-container">
+                                <div class="hero-area hero-height d-flex align-items-center grey-bg-2 p-relative">
+                                    <div class="hero-shape">
+                                        <img class="hero-1-circle" src="./assets/img/shape/hero/hero-1-circle.png" alt="img">
+                                        <img src="./assets/img/shape/hero/hero-1-circle-2.png" alt="img">
+                                        <img class="hero-1-dot-2" src="./assets/img/shape/hero/hero-1-dot-2.png" alt="img">
+                                    </div>
+                                    <div class="container">
+                                        <div class="hero-content-wrapper mt-90">
+                                            <div class="row align-items-center">
+                                                <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
+                                                    <div class="hero-content p-relative z-index-1 bdevs-el-content">
+                                                        <h3 class="hero-title bdevs-el-title" data-wow-delay=".4s">
+                                                            <span>
+                                                                Access
+                                                                2700+
+                                                            </span> <span class="yellow-shape">
+                                                                Online <img src="./assets/img/shape/yellow-bg.png" alt="yellow-shape">
+                                                            </span>Tutorial From Top Instructor.
+                                                        </h3>
+                                                        <p>
+                                                            Meet university,and cultural institutions, who'll share their
+                                                            experience.
+                                                        </p>
+                                                        <div class="hero-buttons">
+                                                            <a class="e-btn bdevs-el-btn site-btn" href="#">view all Course</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
+                                                    <div class="hero-thumb d-flex p-relative">
+                                                        <div class="hero-thumb-shape">
+                                                            <img class="hero-1-dot" src="./assets/img/shape/hero/hero-1-dot.png"
+                                                                 alt="img">
+                                                            <img class="hero-1-circle-3"
+                                                                 src="./assets/img/shape/hero/hero-1-circle-3.png" alt="img">
+                                                            <img class="hero-1-circle-4"
+                                                                 src="./assets/img/shape/hero/hero-1-circle-4.png" alt="img">
+                                                        </div>
+                                                        <div class="hero-thumb-big mr-30">
+                                                            <img src="./assets/img/2021/12/hero-1.jpg" alt="img">
+
+                                                            <div class="hero-quote hero-quote-animation">
+                                                                <span>Tomorrow is our</span>
+
+                                                                <h4>“When I Grow Up” Spirit Day!</h4>
+                                                            </div>
+                                                        </div>
+                                                        <div class="hero-thumb-sm mt-50 d-none d-lg-block">
+                                                            <img src="./assets/img/2021/12/hero-sm-1.jpg" alt="img">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="explore-our-popular-course" data-elementor-type="wp-page" data-elementor-id="209"
+             class="elementor elementor-209">
+        <div class="elementor-section elementor-top-section elementor-element elementor-element-179d085 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+             data-id="179d085" data-element_type="section">
+            <div class="elementor-container elementor-column-gap-default">
+                <div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-c46c623"
+                     data-id="c46c623" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-ed0f676 elementor-widget elementor-widget-heading bdevs-el heading"
+                             data-id="ed0f676" data-element_type="widget">
+                            <div class="elementor-widget-container">
+                                <div class="section-title-wrapper bdevs-el-content">
+                                    <h2 class="section-title bdevs-el-title  bdevs-el-btn section-title">
+                                        Explore <br>Our
+                                        <span class="yellow-bg">
+                                            Popular <img src="./assets/img/shape/yellow-bg.png" alt="">
+                                        </span>Course
+                                    </h2>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-97413b5"
+                     data-id="97413b5" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-dc19296 elementor-widget elementor-widget-ebtn bdevs-el ebtn"
+                             data-id="dc19296" data-element_type="widget">
+                            <div class="elementor-widget-container">
+                                <div class="brand-more m-0">
+                                    <a href="#" class="link-btn bdevs-btn">
+                                        View all Category <i class="far fa-arrow-right"></i>
+                                        <i class="far fa-arrow-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="elementor-section elementor-top-section elementor-element elementor-element-16cf36c elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+             data-id="16cf36c" data-element_type="section">
+            <div class="elementor-container elementor-column-gap-no">
+                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e35d4ab"
+                     data-id="e35d4ab" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-3147a9f elementor-widget elementor-widget-service bdevs-el service"
+                             data-id="3147a9f" data-element_type="widget">
+                            <div class="elementor-widget-container">
+                                <div class="category-area">
+                                    <div class="container">
+                                        <div class="row">
+
+                                            <div class="row">
+                                                @foreach (var category in Model.Categories)
+                                                {
+                                                    <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                                                        <div class="category-item mb-30 bdevs-el-content transition-3 d-flex align-items-center">
+                                                            <div class="category-icon mr-30">
+                                                                <img src="@category.Icon" alt="@category.Name" width="40" height="40" />
+                                                            </div>
+                                                            <div class="category-content">
+                                                                <h4 class="category-title bdevs-el-title">
+                                                                    <a href="#">
+                                                                        @category.Name
+                                                                    </a>
+                                                                </h4>
+                                                                <p>@category.Description</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                }
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="elementor-section elementor-top-section elementor-element elementor-element-3d161c7 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+             data-id="3d161c7" data-element_type="section">
+            <div class="elementor-container elementor-column-gap-extended">
+                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-85cdda7"
+                     data-id="85cdda7" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-5c9da5e elementor-widget elementor-widget-banner bdevs-el banner"
+                             data-id="5c9da5e" data-element_type="widget">
+                            <div class="elementor-widget-container">
+                                <div class="banner-item p-relative bdevs-el-content mb-30" data-background="#">
+                                    <div class="banner-content">
+                                        <span class="bdevs-el-subtitle">Free</span>
+                                        <h3 class="banner-title bdevs-el-title">
+                                            Germany Foundation<br>
+                                            Document
+                                        </h3>
+                                        <a href="#" class="e-btn e-btn-2 bdevs-btn">
+                                            View
+                                            Course
+                                        </a>
+                                    </div>
+                                    <div class="banner-thumb d-sm-block d-lg-block">
+                                        <img src="./assets/img/2021/09/banner-img-1.png" alt="img">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-0afe6fc"
+                     data-id="0afe6fc" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-0c29163 elementor-widget elementor-widget-banner bdevs-el banner"
+                             data-id="0c29163" data-element_type="widget">
+                            <div class="elementor-widget-container">
+                                <div class="banner-item p-relative bdevs-el-content mb-30" data-background="#">
+                                    <div class="banner-content">
+                                        <span class="bdevs-el-subtitle">New</span>
+                                        <h3 class="banner-title bdevs-el-title">
+                                            Online Course<br>
+                                            From Eduka University
+                                        </h3>
+                                        <a href="./course.html" class="e-btn e-btn-2 bdevs-btn">
+                                            View
+                                            Course
+                                        </a>
+                                    </div>
+                                    <div class="banner-thumb d-sm-block d-lg-block">
+                                        <img src="./assets/img/2021/09/banner-img-2.png" alt="img">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="find-the-right" data-elementor-type="wp-page" data-elementor-id="209"
+             class="elementor elementor-209">
+        <div class="elementor-section elementor-top-section elementor-element elementor-element-d7b8427 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+             data-id="d7b8427" data-element_type="section">
+            <div class="elementor-container elementor-column-gap-no">
+                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c784933"
+                     data-id="c784933" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-a62b893 elementor-widget elementor-widget-cor_tab bdevs-el cor_tab"
+                             data-id="a62b893" data-element_type="widget" data-widget_type="cor_tab.default">
+                            <div class="elementor-widget-container">
+                                <div class="cor-area">
+                                    <div class="container">
+                                        <div class="row align-items-end">
+                                            <div class="col-xxl-5 col-xl-6 col-lg-6">
+                                                <div class="section-title-wrapper mb-60">
+                                                    <h2 class="section-title section-title">
+                                                        Find the Right<br>Online <span class="yellow-bg yellow-bg-big">
+                                                            Cor<img src="./assets/img/shape/yellow-bg.png" alt="">
+                                                        </span> for you
+                                                    </h2>
+                                                    <p class="section-des">
+                                                        You don't have to struggle alone, you've got our
+                                                        assistance and help.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                            <div class="col-xxl-7 col-xl-6 col-lg-6">
+                                                <div class="cor-menu d-flex justify-content-lg-end mb-60">
+                                                    <div class="masonary-menu filter-button-group project-filter-box">
+                                                        <button class="active" data-filter="*">
+                                                            See All
+                                                        </button>
+                                                        <button data-filter=".data-science">Data Science</button>
+                                                        <button data-filter=".marketing">Marketing</button>
+                                                        <button data-filter=".lifestyle">Lifestyle</button>
+                                                        <button data-filter=".finance">Finance</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row grid">
+                                            <div class="row">
+                                                @foreach (var course in Model.Courses)
+                                                {
+                                                    <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 grid-item finance lifestyle ">
+                                                        <div class="c-i bdevselement-post-tab-item white-bg mb-30 fix">
+                                                            <div class="cor-thumb w-img p-relative fix">
+                                                                <a href="#">
+                                                                    <img src="@course.ImageUrl" alt="img">
+                                                                </a>
+                                                                <div class="cor-tag">
+                                                                    <a href="#">@course.Category.Name</a>
+                                                                </div>
+                                                            </div>
+                                                            <div class="cor-content">
+                                                                <div class="cor-meta d-flex align-items-center justify-content-between">
+                                                                    <div class="cor-lesson bdevselement-post-tab-meta">
+                                                                        <span>
+                                                                            <i class="far fa-book-alt"></i>
+                                                                            10 lessons
+                                                                        </span>
+                                                                    </div>
+                                                                    <div class="cor-rating bdevselement-post-tab-meta">
+                                                                        <span>
+                                                                            <i class="icon_star"></i>4.67<span class="rating-count-gap">(9)</span>
+                                                                        </span>
+                                                                    </div>
+                                                                </div>
+                                                                <h3 class="cor-title bdevselement-post-tab-title">
+                                                                    <a href="#">
+                                                                        @course.Title
+                                                                    </a>
+                                                                </h3>
+                                                                <div class="c-t d-flex align-items-center">
+                                                                    <div class="c-t-thumb mr-15">
+                                                                        <img alt="" src="./assets/img/147144.png"
+                                                                             srcset="./assets/img/147144.png" class="avatar avatar-50 photo"
+                                                                             height="50" width="50">
+                                                                    </div>
+                                                                    <h6 class="bdevselement-post-tab-subtitle">
+                                                                        <a class="bdevselement-post-tab-subtitle" href="#">Base</a>
+                                                                    </h6>
+                                                                </div>
+                                                            </div>
+                                                            <div class="c-more d-flex justify-content-between align-items-center">
+                                                                <div class="cor-status">
+                                                                    <span> @course.Price</span>
+                                                                </div>
+                                                                <div class="cor-btn">
+                                                                    <a href="#" class="link-btn bdevs-btn">
+                                                                        Know Details <i aria-hidden="true" class="fal fa-arrow-right"></i> <i aria-hidden="true" class="fal fa-arrow-right"></i>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                }
+                                            </div>
+                                        </div>
+
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </section>
+
+    <section id="current-events" data-elementor-type="wp-page" data-elementor-id="209"
+             class="elementor elementor-209">
+        <div class="elementor-section elementor-top-section elementor-element elementor-element-ef0af06 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+             data-id="ef0af06" data-element_type="section">
+            <div class="elementor-container elementor-column-gap-no">
+                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d2ead2c"
+                     data-id="d2ead2c" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-c3d1868 elementor-widget elementor-widget-heading bdevs-el heading"
+                             data-id="c3d1868" data-element_type="widget">
+                            <div class="elementor-widget-container">
+                                <div class="section-title-wrapper bdevs-el-content">
+                                    <h2 class="section-title bdevs-el-title  bdevs-el-btn section-title">
+                                        Current <span class="yellow-bg yellow-bg-big">
+                                            Events<img src="./assets/img/shape/yellow-bg.png"
+                                                       alt="">
+                                        </span>
+                                    </h2>
+                                    <p>We found 13 events available for you.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="elementor-section elementor-top-section elementor-element elementor-element-e0c235e elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+             data-id="e0c235e" data-element_type="section">
+            <div class="elementor-container elementor-column-gap-no">
+                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ed88c66"
+                     data-id="ed88c66" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-fbb4f4f elementor-widget elementor-widget-event_list bdevs-el event_list"
+                             data-id="fbb4f4f" data-element_type="widget" data-widget_type="event_list.default">
+                            <div class="elementor-widget-container">
+                                <div class="events-area p-relative">
+                                    <div class="events-shape">
+                                        <img class="events-1-shape" src="./assets/img/events/events-shape.png" alt="img">
+                                    </div>
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-xxl-10 offset-xxl-1 col-xl-10 offset-xl-1 col-lg-10 offset-lg-1">
+                                                <div class="events-item mb-10 hover-active">
+                                                    <div class="events-item-inner bdevselement-post-list-item d-sm-flex align-items-center justify-content-between white-bg">
+                                                        <div class="events-content">
+                                                            <div class="events-meta bdevselement-post-list-meta-wrap">
+                                                                <span>March 24, 2022</span>
+
+                                                                <span>10:30 am - 12:00 pm</span>
+
+                                                                <span>New York, TX 82760, US</span>
+                                                            </div>
+                                                            <h3 class="item_title events-title bdevselement-post-list-title">
+                                                                <a href="#">
+                                                                    Business
+                                                                    creativity workshops
+                                                                </a>
+                                                            </h3>
+                                                        </div>
+                                                        <div class="events-more">
+                                                            <a href="#" class="link-btn bdevs-btn">
+                                                                View More <i class="far fa-arrow-right"></i>
+                                                                <i class="far fa-arrow-right"></i>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xxl-10 offset-xxl-1 col-xl-10 offset-xl-1 col-lg-10 offset-lg-1">
+                                                <div class="events-item mb-10 hover-active">
+                                                    <div class="events-item-inner bdevselement-post-list-item d-sm-flex align-items-center justify-content-between white-bg">
+                                                        <div class="events-content">
+                                                            <div class="events-meta bdevselement-post-list-meta-wrap">
+                                                                <span>July 16, 2022</span>
+
+                                                                <span>10:30 am - 1:30 pm</span>
+
+                                                                <span>New York, TX 82760, US</span>
+                                                            </div>
+                                                            <h3 class="item_title events-title bdevselement-post-list-title">
+                                                                <a href="#">
+                                                                    Foundations
+                                                                    of global health
+                                                                </a>
+                                                            </h3>
+                                                        </div>
+                                                        <div class="events-more">
+                                                            <a href="#" class="link-btn bdevs-btn">
+                                                                View More <i class="far fa-arrow-right"></i>
+                                                                <i class="far fa-arrow-right"></i>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xxl-10 offset-xxl-1 col-xl-10 offset-xl-1 col-lg-10 offset-lg-1">
+                                                <div class="events-item mb-10 hover-active">
+                                                    <div class="events-item-inner bdevselement-post-list-item d-sm-flex align-items-center justify-content-between white-bg">
+                                                        <div class="events-content">
+                                                            <div class="events-meta bdevselement-post-list-meta-wrap">
+                                                                <span>April 10, 2022</span>
+
+                                                                <span> 9:00 am - 5:00 pm</span>
+
+                                                                <span>Mindahan</span>
+                                                            </div>
+                                                            <h3 class="item_title events-title bdevselement-post-list-title">
+                                                                <a href="#">
+                                                                    World
+                                                                    education day conference
+                                                                </a>
+                                                            </h3>
+                                                        </div>
+                                                        <div class="events-more">
+                                                            <a href="#" class="link-btn bdevs-btn">
+                                                                View More <i class="far fa-arrow-right"></i>
+                                                                <i class="far fa-arrow-right"></i>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xxl-10 offset-xxl-1 col-xl-10 offset-xl-1 col-lg-10 offset-lg-1">
+                                                <div class="events-item mb-10 hover-active">
+                                                    <div class="events-item-inner bdevselement-post-list-item d-sm-flex align-items-center justify-content-between white-bg">
+                                                        <div class="events-content">
+                                                            <div class="events-meta bdevselement-post-list-meta-wrap">
+                                                                <span>Jun 14, 2022</span>
+                                                                <span>12:00 am - 2:30 pm</span>
+                                                                <span>New York</span>
+                                                            </div>
+                                                            <h3 class="item_title events-title bdevselement-post-list-title">
+                                                                <a href="#">
+                                                                    Digital
+                                                                    transformation conference
+                                                                </a>
+                                                            </h3>
+                                                        </div>
+                                                        <div class="events-more">
+                                                            <a href="#" class="link-btn bdevs-btn">
+                                                                View More <i class="far fa-arrow-right"></i>
+                                                                <i class="far fa-arrow-right"></i>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="all-inclusive-pricing" data-elementor-type="wp-page" data-elementor-id="209"
+             class="elementor elementor-209">
+        <div class="elementor-section elementor-top-section elementor-element elementor-element-c453940 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+             data-id="c453940" data-element_type="section">
+            <div class="elementor-container elementor-column-gap-no">
+                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5fedea7"
+                     data-id="5fedea7" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-ec69870 elementor-widget elementor-widget-heading bdevs-el heading"
+                             data-id="ec69870" data-element_type="widget">
+                            <div class="elementor-widget-container">
+                                <div class="section-title-wrapper bdevs-el-content">
+                                    <h2 class="section-title bdevs-el-title  bdevs-el-btn section-title">
+                                        Simple <br> All
+                                        Inclusive <span class="yellow-bg yellow-bg-big">
+                                            Pricing<img src="./assets/img/shape/yellow-bg.png" alt="">
+                                        </span>
+                                    </h2>
+                                    <p>No contracts. No surprise fees.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-section elementor-inner-section elementor-element elementor-element-9d558bb elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                             data-id="9d558bb" data-element_type="section">
+                            <div class="elementor-container elementor-column-gap-default">
+                                <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-a3df0e8"
+                                     data-id="a3df0e8" data-element_type="column">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-26f35a0 elementor-widget elementor-widget-advanced_price bdevs-el advanced_price"
+                                             data-id="26f35a0" data-element_type="widget"
+                                             data-widget_type="advanced_price.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="price-area">
+                                                    <div class="container">
+                                                        <div class="row">
+                                                            <div class="col-xxl-12">
+                                                                <div class="price-tab-btn text-center mb-50">
+                                                                    <nav>
+                                                                        <div class="nav nav-tabs justify-content-center" id="nav-tab"
+                                                                             role="tablist">
+                                                                            <button class="nav-link active"
+                                                                                    id="nav-monthly-tab-Monthly_Plan" data-bs-toggle="tab"
+                                                                                    data-bs-target="#nav-monthly-Monthly_Plan" type="button"
+                                                                                    role="tab" aria-controls="nav-monthly-Monthly_Plan"
+                                                                                    aria-selected="true">
+                                                                                Monthly Plan
+                                                                            </button>
+                                                                            <button class="nav-link " id="nav-monthly-tab-Annual_Plan"
+                                                                                    data-bs-toggle="tab"
+                                                                                    data-bs-target="#nav-monthly-Annual_Plan" type="button"
+                                                                                    role="tab" aria-controls="nav-monthly-Annual_Plan"
+                                                                                    aria-selected="true">
+                                                                                Annual Plan
+                                                                            </button>
+                                                                        </div>
+                                                                    </nav>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="row">
+                                                            <div class="col-xxl-10 offset-xxl-1 col-xl-10 offset-xl-1 col-lg-10 offset-lg-1">
+                                                                <div class="price-tab-content">
+                                                                    <div class="tab-content">
+                                                                        <div class="tab-pane fade show active"
+                                                                             id="nav-monthly-Monthly_Plan" role="tabpanel"
+                                                                             aria-labelledby="nav-monthly-tab-Monthly_Plan">
+                                                                            <style></style>
+                                                                            <div data-elementor-type="landing-page"
+                                                                                 data-elementor-id="280" class="elementor elementor-280">
+                                                                                <div class="elementor-section elementor-top-section elementor-element elementor-element-edc0d31 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                                                                     data-id="edc0d31" data-element_type="section">
+                                                                                    <div class="elementor-container elementor-column-gap-extended">
+                                                                                        <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-a850035"
+                                                                                             data-id="a850035" data-element_type="column">
+                                                                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                                                                <div class="elementor-element elementor-element-3510ff8 elementor-widget elementor-widget-pricing_table bdevs-el pricing_table"
+                                                                                                     data-id="3510ff8"
+                                                                                                     data-element_type="widget"
+                                                                                                     data-widget_type="pricing_table.default">
+                                                                                                    <div class="elementor-widget-container">
+                                                                                                        <div class="price-item grey-bg mb-30 p-relative">
+
+                                                                                                            <div class="price-head">
+                                                                                                                <h3>Gold</h3>
+                                                                                                                <p>
+                                                                                                                    Perfect for small marketing
+                                                                                                                    teams
+                                                                                                                </p>
+                                                                                                            </div>
+                                                                                                            <div class="price-tag mb-25">
+                                                                                                                <h4>
+                                                                                                                    $59<span>
+                                                                                                                        .99 /
+                                                                                                                        annually
+                                                                                                                    </span>
+                                                                                                                </h4>
+                                                                                                            </div>
+                                                                                                            <div class="price-features mb-40">
+                                                                                                                <ul>
+                                                                                                                    <li class="elementor-repeater-item-024bd2a">
+                                                                                                                        <i aria-hidden="true"
+                                                                                                                           class="fal fa-check"></i>
+                                                                                                                        <span class="price-feature-text">
+                                                                                                                            Course
+                                                                                                                            Discussions
+                                                                                                                        </span>
+                                                                                                                    </li>
+                                                                                                                    <li class="elementor-repeater-item-49338a2">
+                                                                                                                        <i aria-hidden="true"
+                                                                                                                           class="fal fa-check"></i>
+                                                                                                                        <span class="price-feature-text">
+                                                                                                                            Content
+                                                                                                                            Library
+                                                                                                                        </span>
+                                                                                                                    </li>
+                                                                                                                    <li class="elementor-repeater-item-468ae0a">
+                                                                                                                        <i aria-hidden="true"
+                                                                                                                           class="fal fa-check"></i>
+                                                                                                                        <span class="price-feature-text">
+                                                                                                                            1-hour
+                                                                                                                            Mentorship
+                                                                                                                        </span>
+                                                                                                                    </li>
+                                                                                                                </ul>
+                                                                                                            </div>
+                                                                                                            <a class="e-btn e-btn-border"
+                                                                                                               href="#">
+                                                                                                                Get Started
+                                                                                                            </a>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-8941f85"
+                                                                                             data-id="8941f85" data-element_type="column">
+                                                                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                                                                <div class="elementor-element elementor-element-ce538b2 elementor-widget elementor-widget-pricing_table bdevs-el pricing_table"
+                                                                                                     data-id="ce538b2"
+                                                                                                     data-element_type="widget"
+                                                                                                     data-widget_type="pricing_table.default">
+                                                                                                    <div class="elementor-widget-container">
+                                                                                                        <div class="price-item grey-bg mb-30 p-relative">
+                                                                                                            <div class="price-offer">
+                                                                                                                <span>Best Value</span>
+                                                                                                            </div>
+
+                                                                                                            <div class="price-head">
+                                                                                                                <h3>Diamond</h3>
+                                                                                                                <p>
+                                                                                                                    Perfect for small marketing
+                                                                                                                    teams
+                                                                                                                </p>
+                                                                                                            </div>
+                                                                                                            <div class="price-tag mb-25">
+                                                                                                                <h4>
+                                                                                                                    $99<span>
+                                                                                                                        .99 /
+                                                                                                                        annually
+                                                                                                                    </span>
+                                                                                                                </h4>
+                                                                                                            </div>
+                                                                                                            <div class="price-features mb-40">
+                                                                                                                <ul>
+                                                                                                                    <li class="elementor-repeater-item-024bd2a">
+                                                                                                                        <i aria-hidden="true"
+                                                                                                                           class="fal fa-check"></i>
+                                                                                                                        <span class="price-feature-text">
+                                                                                                                            Course
+                                                                                                                            Discussions
+                                                                                                                        </span>
+                                                                                                                    </li>
+                                                                                                                    <li class="elementor-repeater-item-49338a2">
+                                                                                                                        <i aria-hidden="true"
+                                                                                                                           class="fal fa-check"></i>
+                                                                                                                        <span class="price-feature-text">
+                                                                                                                            Content
+                                                                                                                            Library
+                                                                                                                        </span>
+                                                                                                                    </li>
+                                                                                                                    <li class="elementor-repeater-item-468ae0a">
+                                                                                                                        <i aria-hidden="true"
+                                                                                                                           class="fal fa-check"></i>
+                                                                                                                        <span class="price-feature-text">
+                                                                                                                            1-hour
+                                                                                                                            Mentorship
+                                                                                                                        </span>
+                                                                                                                    </li>
+                                                                                                                    <li class="elementor-repeater-item-bc29318">
+                                                                                                                        <i aria-hidden="true"
+                                                                                                                           class="fal fa-check"></i>
+                                                                                                                        <span class="price-feature-text">
+                                                                                                                            Online
+                                                                                                                            Course
+                                                                                                                        </span>
+                                                                                                                    </li>
+                                                                                                                </ul>
+                                                                                                            </div>
+                                                                                                            <a class="e-btn e-btn-border"
+                                                                                                               href="#">
+                                                                                                                Get Started
+                                                                                                            </a>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="tab-pane fade " id="nav-monthly-Annual_Plan"
+                                                                             role="tabpanel"
+                                                                             aria-labelledby="nav-monthly-tab-Annual_Plan">
+                                                                            <style></style>
+                                                                            <div data-elementor-type="landing-page"
+                                                                                 data-elementor-id="303" class="elementor elementor-303">
+                                                                                <div class="elementor-section elementor-top-section elementor-element elementor-element-9dc5355 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                                                                     data-id="9dc5355" data-element_type="section">
+                                                                                    <div class="elementor-container elementor-column-gap-extended">
+                                                                                        <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9c00909"
+                                                                                             data-id="9c00909" data-element_type="column">
+                                                                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                                                                <div class="elementor-element elementor-element-be0b9d2 elementor-widget elementor-widget-pricing_table bdevs-el pricing_table"
+                                                                                                     data-id="be0b9d2"
+                                                                                                     data-element_type="widget"
+                                                                                                     data-widget_type="pricing_table.default">
+                                                                                                    <div class="elementor-widget-container">
+                                                                                                        <div class="price-item grey-bg mb-30 p-relative">
+
+                                                                                                            <div class="price-head">
+                                                                                                                <h3>Gold</h3>
+                                                                                                                <p>
+                                                                                                                    Perfect for small marketing
+                                                                                                                    teams
+                                                                                                                </p>
+                                                                                                            </div>
+                                                                                                            <div class="price-tag mb-25">
+                                                                                                                <h4>
+                                                                                                                    $89<span>
+                                                                                                                        .99 /
+                                                                                                                        annually
+                                                                                                                    </span>
+                                                                                                                </h4>
+                                                                                                            </div>
+                                                                                                            <div class="price-features mb-40">
+                                                                                                                <ul>
+                                                                                                                    <li class="elementor-repeater-item-024bd2a">
+                                                                                                                        <i aria-hidden="true"
+                                                                                                                           class="fal fa-check"></i>
+                                                                                                                        <span class="price-feature-text">
+                                                                                                                            Course
+                                                                                                                            Discussions
+                                                                                                                        </span>
+                                                                                                                    </li>
+                                                                                                                    <li class="elementor-repeater-item-49338a2">
+                                                                                                                        <i aria-hidden="true"
+                                                                                                                           class="fal fa-check"></i>
+                                                                                                                        <span class="price-feature-text">
+                                                                                                                            Content
+                                                                                                                            Library
+                                                                                                                        </span>
+                                                                                                                    </li>
+                                                                                                                    <li class="elementor-repeater-item-468ae0a">
+                                                                                                                        <i aria-hidden="true"
+                                                                                                                           class="fal fa-check"></i>
+                                                                                                                        <span class="price-feature-text">
+                                                                                                                            1-hour
+                                                                                                                            Mentorship
+                                                                                                                        </span>
+                                                                                                                    </li>
+                                                                                                                </ul>
+                                                                                                            </div>
+                                                                                                            <a class="e-btn e-btn-border"
+                                                                                                               href="#">
+                                                                                                                Get Started
+                                                                                                            </a>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-96c9bcd"
+                                                                                             data-id="96c9bcd" data-element_type="column">
+                                                                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                                                                <div class="elementor-element elementor-element-4731a9f elementor-widget elementor-widget-pricing_table bdevs-el pricing_table"
+                                                                                                     data-id="4731a9f"
+                                                                                                     data-element_type="widget"
+                                                                                                     data-widget_type="pricing_table.default">
+                                                                                                    <div class="elementor-widget-container">
+                                                                                                        <div class="price-item grey-bg mb-30 p-relative">
+                                                                                                            <div class="price-offer">
+                                                                                                                <span>Best Value</span>
+                                                                                                            </div>
+
+                                                                                                            <div class="price-head">
+                                                                                                                <h3>Diamond</h3>
+                                                                                                                <p>
+                                                                                                                    Perfect for small marketing
+                                                                                                                    teams
+                                                                                                                </p>
+                                                                                                            </div>
+                                                                                                            <div class="price-tag mb-25">
+                                                                                                                <h4>
+                                                                                                                    $120<span>
+                                                                                                                        .99 /
+                                                                                                                        annually
+                                                                                                                    </span>
+                                                                                                                </h4>
+                                                                                                            </div>
+                                                                                                            <div class="price-features mb-40">
+                                                                                                                <ul>
+                                                                                                                    <li class="elementor-repeater-item-024bd2a">
+                                                                                                                        <i aria-hidden="true"
+                                                                                                                           class="fal fa-check"></i>
+                                                                                                                        <span class="price-feature-text">
+                                                                                                                            Course
+                                                                                                                            Discussions
+                                                                                                                        </span>
+                                                                                                                    </li>
+                                                                                                                    <li class="elementor-repeater-item-49338a2">
+                                                                                                                        <i aria-hidden="true"
+                                                                                                                           class="fal fa-check"></i>
+                                                                                                                        <span class="price-feature-text">
+                                                                                                                            Content
+                                                                                                                            Library
+                                                                                                                        </span>
+                                                                                                                    </li>
+                                                                                                                    <li class="elementor-repeater-item-468ae0a">
+                                                                                                                        <i aria-hidden="true"
+                                                                                                                           class="fal fa-check"></i>
+                                                                                                                        <span class="price-feature-text">
+                                                                                                                            1-hour
+                                                                                                                            Mentorship
+                                                                                                                        </span>
+                                                                                                                    </li>
+                                                                                                                    <li class="elementor-repeater-item-bc29318">
+                                                                                                                        <i aria-hidden="true"
+                                                                                                                           class="fal fa-check"></i>
+                                                                                                                        <span class="price-feature-text">
+                                                                                                                            Online
+                                                                                                                            Course
+                                                                                                                        </span>
+                                                                                                                    </li>
+                                                                                                                </ul>
+                                                                                                            </div>
+                                                                                                            <a class="e-btn e-btn-border"
+                                                                                                               href="#">
+                                                                                                                Get Started
+                                                                                                            </a>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="guiding-star-section" data-elementor-type="wp-page" data-elementor-id="209"
+             class="elementor elementor-209">
+        <div class="elementor-section elementor-top-section elementor-element elementor-element-a4c194d elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+             data-id="a4c194d" data-element_type="section">
+            <div class="elementor-container elementor-column-gap-default">
+                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d3e86c9"
+                     data-id="d3e86c9" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-8d61ef2 elementor-widget elementor-widget-cta bdevs-el cta"
+                             data-id="8d61ef2" data-element_type="widget">
+                            <div class="elementor-widget-container">
+                                <div class="cta-area">
+                                    <div class="container">
+                                        <div class="cta-inner cta-inner-2 blue-bg fix">
+                                            <div class="cta-shape">
+                                                <img src="./assets/img/2021/09/cta-shape.png" alt="img">
+                                            </div>
+                                            <div class="row align-items-center">
+                                                <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-6">
+                                                    <div class="cta-content bdevs-el-content">
+                                                        <h3 class="cta-title bdevs-el-title">
+                                                            You can be your own Guiding star with
+                                                            our help
+                                                        </h3>
+                                                    </div>
+                                                </div>
+                                                <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-6">
+                                                    <div class="cta-apps d-lg-flex justify-content-end p-relative z-index-1">
+                                                        <a class="mr-10  bdevs-el-btn" href="#">Get Started</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </section>
+
+</main>
+

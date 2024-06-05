@@ -1,0 +1,528 @@
+﻿@inject UserManager<AppUser> UserManager
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Online Course Education</title>
+
+    <link rel="stylesheet" href="~/assets/css/style.css">
+    <link rel="stylesheet" href="~/assets/css/bootstrap.min_ver%3D6.4.3.css">
+    <link rel="stylesheet" href="~/assets/css/animate.min_ver%3D6.4.3.css">
+    <link rel="stylesheet" href="~/assets/css/backToTop_ver%3D6.4.3.css">
+    <link rel="stylesheet" href="~/assets/css/preloader_ver%3D6.4.3.css">
+    <link rel="stylesheet" href="~/assets/css/meanmenu_ver%3D6.4.3.css">
+    <link rel="stylesheet" href="~/assets/css/swiper-bundle_ver%3D6.4.3.css">
+    <link rel="stylesheet" href="~/assets/css/owl.carousel.min_ver%3D6.4.3.css">
+    <link rel="stylesheet" href="~/assets/css/jquery.fancybox.min_ver%3D6.4.3.css">
+    <link rel="stylesheet" href="~/assets/css/fontAwesome5Pro_ver%3D6.4.3.css">
+    <link rel="stylesheet" href="~/assets/css/elegantFont_ver%3D6.4.3.css">
+    <link rel="stylesheet" href="~/assets/css/default_ver%3D6.4.3.css">
+    <link rel="stylesheet" href="~/assets/css/base-core_ver%3D1714817522.css">
+    <link rel="stylesheet" href="~/assets/css/base-unit_ver%3D6.4.3.css">
+    <link rel="stylesheet" href="~/assets/css/responsive_ver%3D1714817522.css">
+    <link rel="stylesheet" href="~/assets/plugins/elementor/assets/lib/eicons/css/elementor-icons.min_ver%3D5.27.0.css">
+    <link rel="stylesheet" href="~/assets/plugins/elementor/assets/lib/swiper/css/swiper.min_ver%3D5.3.6.css">
+    <link rel="stylesheet" href="~/assets/plugins/elementor/assets/css/frontend-lite.min_ver%3D3.19.0.css">
+    <link rel="stylesheet" href="~/assets/css/elementorstyle1.css">
+    <link rel="stylesheet" href="~/assets/css/elementorstyle2.css">
+    <link rel="stylesheet" href="~/assets/css/StyleForRegister.css">
+
+</head>
+
+<body>
+
+    <header>
+        <div id="header-sticky" class="header-area header-transparent header-padding">
+            <div class="container-fluid">
+                <div class="row align-items-center">
+                    <div class="col-xxl-3 col-xl-3 col-lg-4 col-md-2 col-sm-4 col-6">
+                        <div class="header-left d-flex">
+                            <div class="logo">
+                                <a class="standard-logo" href="#">
+                                    <img src="~/assets/img/logo/logo-black.png" alt="logo">
+                                </a>
+                            </div>
+                            <div class="header-category d-none d-lg-block">
+                                <nav>
+                                    <ul>
+                                        <li>
+                                            <a href="#" class="cat-menu d-flex align-items-center">
+                                                <div class="cat-dot-icon d-inline-block">
+                                                    <svg viewBox="0 0 276.2 276.2">
+                                                        <g>
+                                                            <g>
+                                                                <path class="cat-dot"
+                                                                      d="M33.1,2.5C15.3,2.5,0.9,17,0.9,34.8s14.5,32.3,32.3,32.3s32.3-14.5,32.3-32.3S51,2.5,33.1,2.5z">
+                                                                </path>
+                                                                <path class="cat-dot"
+                                                                      d="M137.7,2.5c-17.8,0-32.3,14.5-32.3,32.3s14.5,32.3,32.3,32.3c17.8,0,32.3-14.5,32.3-32.3S155.5,2.5,137.7,2.5    z">
+                                                                </path>
+                                                                <path class="cat-dot"
+                                                                      d="M243.9,67.1c17.8,0,32.3-14.5,32.3-32.3S261.7,2.5,243.9,2.5S211.6,17,211.6,34.8S226.1,67.1,243.9,67.1z">
+                                                                </path>
+                                                                <path class="cat-dot"
+                                                                      d="M32.3,170.5c17.8,0,32.3-14.5,32.3-32.3c0-17.8-14.5-32.3-32.3-32.3S0,120.4,0,138.2S14.5,170.5,32.3,170.5z">
+                                                                </path>
+                                                                <path class="cat-dot"
+                                                                      d="M136.8,170.5c17.8,0,32.3-14.5,32.3-32.3c0-17.8-14.5-32.3-32.3-32.3c-17.8,0-32.3,14.5-32.3,32.3    C104.5,156.1,119,170.5,136.8,170.5z">
+                                                                </path>
+                                                                <path class="cat-dot"
+                                                                      d="M243,170.5c17.8,0,32.3-14.5,32.3-32.3c0-17.8-14.5-32.3-32.3-32.3s-32.3,14.5-32.3,32.3    C210.7,156.1,225.2,170.5,243,170.5z">
+                                                                </path>
+                                                                <path class="cat-dot"
+                                                                      d="M33,209.1c-17.8,0-32.3,14.5-32.3,32.3c0,17.8,14.5,32.3,32.3,32.3s32.3-14.5,32.3-32.3S50.8,209.1,33,209.1z    ">
+                                                                </path>
+                                                                <path class="cat-dot"
+                                                                      d="M137.6,209.1c-17.8,0-32.3,14.5-32.3,32.3c0,17.8,14.5,32.3,32.3,32.3c17.8,0,32.3-14.5,32.3-32.3    S155.4,209.1,137.6,209.1z">
+                                                                </path>
+                                                                <path class="cat-dot"
+                                                                      d="M243.8,209.1c-17.8,0-32.3,14.5-32.3,32.3c0,17.8,14.5,32.3,32.3,32.3c17.8,0,32.3-14.5,32.3-32.3    S261.6,209.1,243.8,209.1z">
+                                                                </path>
+                                                            </g>
+                                                        </g>
+                                                    </svg>
+                                                </div>
+                                                <span>Category</span>
+                                            </a>
+                                            <div class="cat-menu-box">
+                                                <ul id="menu-category-menu" class="cat-submenu m-0">
+                                                    <li itemscope="itemscope" itemtype="#" id="menu-item-1561"
+                                                        class="menu-item menu-item-type-taxonomy menu-item-object-cor-category menu-item-1561 nav-item">
+                                                        <a title="Lifestyle" href="#" class="nav-link"
+                                                           onclick="return true">Lifestyle</a>
+                                                    </li>
+                                                    <li itemscope="itemscope" itemtype="#" id="menu-item-1562"
+                                                        class="menu-item menu-item-type-taxonomy menu-item-object-cor-category menu-item-1562 nav-item">
+                                                        <a title="Finance" href="#" class="nav-link" onclick="return true">Finance</a>
+                                                    </li>
+                                                    <li itemscope="itemscope" itemtype="#" id="menu-item-1563"
+                                                        class="menu-item menu-item-type-taxonomy menu-item-object-cor-category menu-item-1563 nav-item">
+                                                        <a title="Business" href="#" class="nav-link"
+                                                           onclick="return true">Business</a>
+                                                    </li>
+                                                    <li itemscope="itemscope" itemtype="#" id="menu-item-1564"
+                                                        class="menu-item menu-item-type-taxonomy menu-item-object-cor-category menu-item-1564 nav-item">
+                                                        <a title="Popularity" href="#" class="nav-link"
+                                                           onclick="return true">Popularity</a>
+                                                    </li>
+                                                    <li itemscope="itemscope" itemtype="#" id="menu-item-1565"
+                                                        class="menu-item menu-item-type-taxonomy menu-item-object-cor-category menu-item-1565 nav-item">
+                                                        <a title="Art Design" href="#" class="nav-link" onclick="return true">
+                                                            Art
+                                                            Design
+                                                        </a>
+                                                    </li>
+                                                    <li itemscope="itemscope" itemtype="#" id="menu-item-1566"
+                                                        class="menu-item menu-item-type-taxonomy menu-item-object-cor-category menu-item-1566 nav-item">
+                                                        <a title="Marketing" href="#" class="nav-link"
+                                                           onclick="return true">Marketing</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xxl-9 col-xl-9 col-lg-8 col-md-10 col-sm-8 col-6">
+                        <div class="header-right d-flex justify-content-end align-items-center">
+                            <div class="main-menu">
+                                <nav id="mobile-menu">
+                                    <ul id="menu-main-menu" class="">
+                                        <li itemscope="itemscope" itemtype="#" id="menu-item-1313"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-209 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children dropdown has-dropdown active menu-item-1313 nav-item">
+                                            <a title="Home" href="#" class="nav-link" onclick="return true">Home</a>
+                                            <ul class="submenu" role="menu">
+                                                <li itemscope="itemscope" itemtype="#" id="menu-item-1322"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-209 current_page_item active menu-item-1322 nav-item">
+                                                    <a title="Home 01" href="#" class="dropdown-items" onclick="return true">
+                                                        Home
+                                                        01
+                                                    </a>
+                                                </li>
+                                                <li itemscope="itemscope" itemtype="#" id="menu-item-1314"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1314 nav-item">
+                                                    <a title="Home 02" href="#" class="dropdown-items" onclick="return true">
+                                                        Home
+                                                        02
+                                                    </a>
+                                                </li>
+                                                <li itemscope="itemscope" itemtype="#" id="menu-item-1759"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1759 nav-item">
+                                                    <a title="Home 03" href="#" class="dropdown-items" onclick="return true">
+                                                        Home
+                                                        03
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li itemscope="itemscope" itemtype="#" id="menu-item-1651"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown has-dropdown menu-item-1651 nav-item">
+                                            <a title="Cors" href="./course.html" class="nav-link" onclick="return true">Course</a>
+                                            <ul class="submenu" role="menu">
+                                                <li itemscope="itemscope" itemtype="#" id="menu-item-1652"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1652 nav-item">
+                                                    <a title="Cors" href="./course.html" class="dropdown-items"
+                                                       onclick="return true">Course</a>
+                                                </li>
+                                                <li itemscope="itemscope" itemtype="#" id="menu-item-1653"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-cors menu-item-1653 nav-item">
+                                                    <a title="Cor Details" href="#" class="dropdown-items"
+                                                       onclick="return true">
+                                                        Course
+                                                        Details
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li itemscope="itemscope" itemtype="#" id="menu-item-1325"
+                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown has-dropdown menu-item-1325 nav-item">
+                                            <a title="Pages" href="#" class="nav-link" onclick="return true">Pages</a>
+                                            <ul class="submenu" role="menu">
+                                                <li itemscope="itemscope" itemtype="#" id="menu-item-1307"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1307 nav-item">
+                                                    <a title="About" href="#" class="dropdown-items" onclick="return true">About</a>
+                                                </li>
+                                                <li itemscope="itemscope" itemtype="#" id="menu-item-1316"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1316 nav-item">
+                                                    <a title="Instructor" href="#" class="dropdown-items"
+                                                       onclick="return true">Instructor</a>
+                                                </li>
+                                                <li itemscope="itemscope" itemtype="#" id="menu-item-1709"
+                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1709 nav-item">
+                                                    <a title="Instructor Details" href="#" class="dropdown-items"
+                                                       onclick="return true">Instructor Details</a>
+                                                </li>
+                                                <li itemscope="itemscope" itemtype="#" id="menu-item-1805"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1805 nav-item">
+                                                    <a title="Event" href="#" class="dropdown-items" onclick="return true">Event</a>
+                                                </li>
+                                                <li itemscope="itemscope" itemtype="#" id="menu-item-1710"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-bdevs-event menu-item-1710 nav-item">
+                                                    <a title="Event Details" href="#" class="dropdown-items"
+                                                       onclick="return true">Event Details</a>
+                                                </li>
+                                                <li itemscope="itemscope" itemtype="#" id="menu-item-1751"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1751 nav-item">
+                                                    <a title="Shop" href="#" class="dropdown-items" onclick="return true">Shop</a>
+                                                </li>
+                                                <li itemscope="itemscope" itemtype="#" id="menu-item-1752"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1752 nav-item">
+                                                    <a title="Product Details" href="#" class="dropdown-items"
+                                                       onclick="return true">Product Details</a>
+                                                </li>
+                                                <li itemscope="itemscope" itemtype="#" id="menu-item-1917"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown has-dropdown menu-item-1917 nav-item">
+                                                    <a title="Portfolio" href="#" class="dropdown-items"
+                                                       onclick="return true">Portfolio</a>
+                                                    <ul class="submenu" role="menu">
+                                                        <li itemscope="itemscope" itemtype="#" id="menu-item-1918"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1918 nav-item">
+                                                            <a title="Portfolio Col 02" href="#" class="dropdown-items"
+                                                               onclick="return true">Portfolio Col 02</a>
+                                                        </li>
+                                                        <li itemscope="itemscope" itemtype="#" id="menu-item-1926"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1926 nav-item">
+                                                            <a title="Portfolio Col 03" href="#" class="dropdown-items"
+                                                               onclick="return true">Portfolio Col 03</a>
+                                                        </li>
+                                                        <li itemscope="itemscope" itemtype="#" id="menu-item-1927"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-bdevs-portfolio menu-item-1927 nav-item">
+                                                            <a title="Portfolio Details" href="#" class="dropdown-items"
+                                                               onclick="return true">Portfolio Details</a>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <li itemscope="itemscope" itemtype="#" id="menu-item-1915"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown has-dropdown menu-item-1915 nav-item">
+                                                    <a title="Gallery" href="#" class="dropdown-items"
+                                                       onclick="return true">Gallery</a>
+                                                    <ul class="submenu" role="menu">
+                                                        <li itemscope="itemscope" itemtype="#" id="menu-item-1914"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1914 nav-item">
+                                                            <a title="Gallery Col 02" href="#" class="dropdown-items"
+                                                               onclick="return true">Gallery Col 02</a>
+                                                        </li>
+                                                        <li itemscope="itemscope" itemtype="#" id="menu-item-1925"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1925 nav-item">
+                                                            <a title="Gallery Col 03" href="#" class="dropdown-items"
+                                                               onclick="return true">Gallery Col 03</a>
+                                                        </li>
+                                                        <li itemscope="itemscope" itemtype="#" id="menu-item-1916"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1916 nav-item">
+                                                            <a title="Gallery Col 04" href="#" class="dropdown-items"
+                                                               onclick="return true">Gallery Col 04</a>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <li itemscope="itemscope" itemtype="#" id="menu-item-1320"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1320 nav-item">
+                                                    <a title="Student Registration" href="#" class="dropdown-items"
+                                                       onclick="return true">Student Registration</a>
+                                                </li>
+                                                <li itemscope="itemscope" itemtype="#" id="menu-item-1317"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1317 nav-item">
+                                                    <a title="Instructor Registration" href="#" class="dropdown-items"
+                                                       onclick="return true">Instructor Registration</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li itemscope="itemscope" itemtype="#" id="menu-item-1308"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown has-dropdown menu-item-1308 nav-item">
+                                            <a title="Blog" href="#" class="nav-link" onclick="return true">Account</a>
+                                            <ul class="submenu" role="menu">
+                                                @await Component.InvokeAsync("HeaderViewComponent")
+
+                                                @{
+                                                    if (User.Identity.IsAuthenticated)
+                                                    {
+                                                        var user = await UserManager.GetUserAsync(User);
+                                                        var userFullName = user?.FullName ?? User.Identity.Name;
+                                                        <li><a class="px-1" href="">@userFullName</a></li>
+                                                        @if (User.IsInRole("SuperAdmin") || User.IsInRole("Admin"))
+                                                        {
+
+                                                           <li><a class="px-1" asp-area="Admin" asp-action="Dashboard" asp-controller="Admin">Go To Admin</a></li>
+
+                                                        }
+                                                        <li itemscope="itemscope" itemtype="#" id="menu-item-1994"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1994 nav-item">
+                                                            <form method="post" asp-controller="Account" asp-action="Logout">
+                                                                <button type="submit" class="px-1">Logout</button>
+                                                            </form>
+                                                        </li>
+                                                    }
+                                                    else
+                                                    {
+                                                        <li itemscope="itemscope" itemtype="#" id="menu-item-1324"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1324 nav-item">
+                                                            <a asp-controller="Account" asp-action="SignUp"
+                                                               onclick="return true">Sign Up</a>
+                                                        </li>
+                                                        <li itemscope="itemscope" itemtype="#" id="menu-item-1994"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1994 nav-item">
+                                                            <a asp-controller="Account" asp-action="SignIn"
+                                                               onclick="return true">Sign In</a>
+                                                        </li>
+                                                    }
+                                                }
+                                            </ul>
+                                        </li>
+                                        <li itemscope="itemscope" itemtype="#" id="menu-item-1311"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1311 nav-item">
+                                            <a title="Contact" href="./contact.html" class="nav-link"
+                                               onclick="return true">Contact</a>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </div>
+                            <div class="header-search p-relative ml-50 d-none d-md-block">
+                                <form action="#">
+                                    <input type="text" name="s" value="" placeholder="Search for products...">
+                                    <button type="submit"><i class="fad fa-search"></i></button>
+                                </form>
+                                <div class="header-cart">
+                                    <a asp-controller="Cart" asp-action="Index" class="cart-toggle-btn">
+                                        <div class="header-cart-icon">
+                                            <svg viewBox="0 0 24 24">
+                                                <circle class="st0" cx="9" cy="21" r="1"></circle>
+                                                <circle class="st0" cx="20" cy="21" r="1"></circle>
+                                                <path class="st0"
+                                                      d="M1,1h4l2.7,13.4c0.2,1,1,1.6,2,1.6h9.7c1,0,1.8-0.7,2-1.6L23,6H6"></path>
+                                            </svg>
+                                        </div>
+                                        <span class="cart-item">99</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="header-btn ml-20 d-none d-sm-block">
+                                <a href="#" class="e-btn">Try for free</a>
+                            </div>
+                            <div class="sidebar-menu d-xl-none">
+                                <div class="sidebar-toggle-btn ml-30" id="sidebar-toggle">
+                                    <span class="line"></span>
+                                    <span class="line"></span>
+                                    <span class="line"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
+    <footer>
+        <div class="footer-area footer-bg" data-bg-color="" data-top-space="90px" data-background="">
+            <div class="footer-top pt-90 pb-40">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-6">
+                            <div id="custom_html-2" class="widget_text footer-widget footer-col-1 mb-50 widget_custom_html">
+                                <div class="textwidget custom-html-widget">
+                                    <div class="footer-widget-head mb-22">
+                                        <div class="footer-logo">
+                                            <a href="#">
+                                                <img src="~/assets/img/2021/08/logo.png" alt="">
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="footer-widget-body">
+                                        <p>
+                                            Great lesson ideas and lesson plans for ESL teachers! Educators can customize lesson
+                                            plans to best.
+                                        </p>
+                                        <div class="footer-social">
+                                            <ul>
+                                                <li><a href="#"><i class="social_facebook"></i></a></li>
+                                                <li><a href="#" class="tw"><i class="social_twitter"></i></a></li>
+                                                <li><a href="#" class="pin"><i class="social_pinterest"></i></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xxl-3  col-xl-3  col-lg-3 col-md-4 col-sm-5">
+                            <div id="nav_menu-2" class="footer-widget footer-col-2 mb-50 widget_nav_menu">
+                                <h3 class="footer-widget-title mb-22">Company</h3>
+                                <div class="menu-company-container">
+                                    <ul id="menu-company" class="menu">
+                                        <li id="menu-item-121"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121">
+                                            <a href="#" onclick="return true">About</a>
+                                        </li>
+                                        <li id="menu-item-1556"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1556">
+                                            <a href="./course.html" onclick="return true">Course</a>
+                                        </li>
+                                        <li id="menu-item-1558"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1558">
+                                            <a href="#" onclick="return true">Events</a>
+                                        </li>
+                                        <li id="menu-item-124"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124">
+                                            <a href="#" onclick="return true">Instructor</a>
+                                        </li>
+                                        <li id="menu-item-1557"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1557">
+                                            <a href="#" onclick="return true">Career</a>
+                                        </li>
+                                        <li id="menu-item-127"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127">
+                                            <a href="#" onclick="return true">
+                                                Become a
+                                                Teacher
+                                            </a>
+                                        </li>
+                                        <li id="menu-item-122"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122">
+                                            <a href="./contact.html" onclick="return true">Contact</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-6">
+                            <div id="nav_menu-3" class="footer-widget footer-col-3 mb-50 widget_nav_menu">
+                                <h3 class="footer-widget-title mb-22">Platform</h3>
+                                <div class="menu-platform-container">
+                                    <ul id="menu-platform" class="menu">
+                                        <li id="menu-item-129"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129">
+                                            <a href="#" onclick="return true">
+                                                Browse
+                                                Library
+                                            </a>
+                                        </li>
+                                        <li id="menu-item-1559"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1559">
+                                            <a href="#" onclick="return true">Library</a>
+                                        </li>
+                                        <li id="menu-item-131"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131">
+                                            <a href="#" onclick="return true">Partners</a>
+                                        </li>
+                                        <li id="menu-item-128"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128">
+                                            <a href="./blog.html" onclick="return true">
+                                                News &amp;
+                                                Blogs
+                                            </a>
+                                        </li>
+                                        <li id="menu-item-132"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132">
+                                            <a href="#" onclick="return true">FAQs</a>
+                                        </li>
+                                        <li id="menu-item-1560"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1560">
+                                            <a href="#" onclick="return true">Tutorials</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6">
+                            <div id="custom_html-3" class="widget_text footer-widget footer-col-4 mb-50 widget_custom_html">
+                                <h3 class="footer-widget-title mb-22">Subscribe</h3>
+                                <div class="textwidget custom-html-widget">
+                                    <div class="footer-widget-body">
+                                        <div class="footer-subscribe">
+                                            <form action="#">
+                                                <div class="footer-subscribe-input mb-15">
+                                                    <input type="email" placeholder="Your email address">
+                                                    <button type="submit">
+                                                        <i class="far fa-arrow-right"></i>
+                                                        <i class="far fa-arrow-right"></i>
+                                                    </button>
+                                                </div>
+                                            </form>
+                                            <p>Get the latest news and updates right at your inbox.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xxl-12">
+                            <div class="footer-copyright text-center">
+                                <p>Copyright © Dadashov Nasir 2024. All Rights Reserved</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+    <script src="~/assets/jquery/jquery.min_ver%3D3.7.1.js"></script>
+    <script src="~/assets/js/imagesloaded.min_ver%3D5.0.0.js"></script>
+    <script src="~/assets/js/bootstrap.bundle.min_ver%3D6.4.3.js"></script>
+    <script src="~/assets/js/backToTop_ver%3D6.4.3.js"></script>
+    <script src="~/assets/js/jquery.nice-select.min_ver%3D6.4.3.js"></script>
+    <script src="~/assets/js/isotope.pkgd.min_ver%3D6.4.3.js"></script>
+    <script src="~/assets/js/jquery.fancybox.min_ver%3D6.4.3.js"></script>
+    <script src="~/assets/js/jquery.counterup.min_ver%3D6.4.3.js"></script>
+    <script src="~/assets/js/jquery.meanmenu_ver%3D6.4.3.js"></script>
+    <script src="~/assets/js/owl.carousel.min_ver%3D6.4.3.js"></script>
+    <script src="~/assets/js/swiper-bundle.min_ver%3D6.4.3.js"></script>
+    <script src="~/assets/js/main_ver%3D6.4.3.js"></script>
+    <script src="~/assets/js/script.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+
+</html>
